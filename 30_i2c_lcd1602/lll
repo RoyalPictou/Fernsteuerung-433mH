@@ -1,0 +1,1 @@
+	pinMode(BtnPin, INPUT);
